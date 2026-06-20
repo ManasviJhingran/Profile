@@ -1,75 +1,99 @@
 <div align="center">
 
-# 👋 Hi, I'm Manasvi Jhingran
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=MANASVI%20JHINGRAN&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-### 🚀 Front-End Developer | BCA Student | Future Software Engineer
+<h1>🚀 Welcome To My Digital Universe</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Front-End+Developer;Building+Modern+Web+Applications;Learning+Full+Stack+Development;Passionate+Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Front-End+Developer;BCA+Student+at+Lucknow+University;Future+Software+Engineer;Building+Modern+Web+Experiences;Open+Source+Learner;Always+Learning+Always+Building;Dreaming+Big+Building+Bigger"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=manasvi-jhingran&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/manasvi-jhingran?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/manasvi-jhingran?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 BCA Student at Lucknow University
+```yaml
+Name: Manasvi Jhingran
+Role: Front-End Developer
+Education: Bachelor of Computer Applications (BCA)
 
-💻 Passionate Front-End Developer
+Location: India 🇮🇳
 
-🌱 Currently Learning:
-- JavaScript
-- React.js
-- Software Engineering
-- Full Stack Development
+Currently Learning:
+  - JavaScript
+  - React.js
+  - Software Engineering
+  - Full Stack Development
 
-🚗 Working on:
-- Driving School Web Project
-- Portfolio Projects
-- UI/UX Design Experiments
+Current Projects:
+  - Driving School Web Platform
+  - Portfolio Website
+  - UI/UX Projects
 
-🎯 Goal:
-- Become a Software Engineer
-- Build impactful products
-- Contribute to Open Source
+Goal:
+  Become a Software Engineer
+  Build Meaningful Products
+  Contribute to Open Source
 
-⚡ Fun Fact:
-- I enjoy turning ideas into beautiful websites.
+Motto:
+  Code. Learn. Build. Repeat.
+```
 
 <br clear="both"/>
 
 ---
 
-# 🌐 Portfolio
+# 🌐 Connect With Me
 
-🔗 YOUR_PORTFOLIO_URL
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manasvi-jhingran">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://manasvi-jhingran-4bbof0m.gamma.site/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,react,nodejs,mongodb,mysql,git,github,vscode,figma,bootstrap&perline=5"/>
 
-### Front-End
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
+---
 
-### Tools & Platforms
+# 🏆 Developer Badges
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-Expert-orange?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-Growing-blue?style=for-the-badge&logo=react)
+
+![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
@@ -77,9 +101,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manasvi-jhingran&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-jhingran&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=manasvi-jhingran&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -99,86 +123,125 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasvi-jhingran&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 Achievement Wall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manasvi-jhingran&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 📚 Learning Roadmap
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</div>
+| Skill | Progress |
+|---------|---------|
+| HTML | ██████████ 100% |
+| CSS | █████████░ 90% |
+| JavaScript | ████████░░ 80% |
+| React.js | ██████░░░░ 60% |
+| Git & GitHub | ████████░░ 80% |
+| Software Engineering | ███████░░░ 70% |
+| DSA | ██████░░░░ 60% |
+| Full Stack Development | █████░░░░░ 50% |
 
 ---
 
-# 📚 Current Focus
+# 🚀 Current Focus
 
 ```text
 ✓ Front-End Development
 ✓ Responsive Web Design
-✓ JavaScript Projects
+✓ Modern JavaScript
 ✓ React.js
 ✓ Software Engineering
 ✓ Data Structures & Algorithms
-✓ Open Source Contributions
+✓ Open Source Learning
+✓ Building Real Projects
 ```
 
 ---
 
 # 🎯 2026 Goals
 
-- Build Advanced Full Stack Projects
-- Master React Ecosystem
-- Learn Backend Development
-- Contribute to Open Source
-- Strengthen DSA Skills
-- Land a Software Engineering Internship
+- 🚀 Build Advanced Full Stack Projects
+- 🌟 Contribute To Open Source
+- 💻 Master React Ecosystem
+- ⚙️ Learn Backend Development
+- 📚 Improve System Design Knowledge
+- 🏆 Secure Software Engineering Internship
+- 🔥 Build Industry-Level Portfolio
 
 ---
 
-# 🤝 Connect With Me
+# 💻 Developer Configuration
 
-<p align="center">
+```javascript
+const Manasvi = {
+    role: "Front-End Developer",
+    education: "BCA Student",
+    university: "Lucknow University",
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+    skills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git",
+        "GitHub"
+    ],
 
-&nbsp;&nbsp;&nbsp;
+    currentlyLearning: [
+        "React.js",
+        "Software Engineering",
+        "Full Stack Development"
+    ],
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
-</a>
+    hobbies: [
+        "Coding",
+        "Learning New Technologies",
+        "Building Projects",
+        "UI/UX Design"
+    ],
 
-&nbsp;&nbsp;&nbsp;
+    dreamCompany: "Google",
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
-</a>
+    lifeMotto: "Code. Learn. Build. Repeat."
+};
 
-</p>
+while(true){
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
-# 💡 Favorite Quote
+# 🌟 Fun Facts
+
+- ☕ Powered by Curiosity
+- 🎨 Love Clean UI Design
+- 💡 Enjoy Solving Real Problems
+- 🚀 Passionate About Technology
+- 🌍 Believe Technology Can Change Lives
+
+---
+
+# 💬 Favorite Quote
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+## "First, solve the problem. Then, write the code."
+
+### — John Johnson
 
 </div>
 
@@ -186,8 +249,10 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A5ACD,100:00BFFF&section=footer"/>
+# ⭐ Thanks For Visiting My Profile ⭐
+
+### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
 
 </div>
